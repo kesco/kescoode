@@ -1,4 +1,4 @@
-baseurl = "http://kescoode.com"
+baseurl = "http://kescoode.com/"
 languageCode = "zh-CN"
 title = "Kesco的编码世界"
 theme = "ghostwriter"
