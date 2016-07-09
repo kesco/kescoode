@@ -1,0 +1,37 @@
+baseurl = "http://kescoode.com"
+languageCode = "zh-CN"
+title = "Kesco的编码世界"
+theme = "ghostwriter"
+copyright = "Copyright (c) 2015. All rights reserved."
+disqusShortname = "kescoodecom"
+googleAnalytics = "UA-75600240-1"
+canonifyurls = true
+
+[Author]
+    name = "Kesco Lin"
+    profile = "http://kescoode.com"
+
+[Taxonomies]
+    tag = "tags"
+
+[Params]
+    intro = true
+    github = "https://github.com/kesco"
+
+[Permalinks]
+    post = "/:filename/"
+
+[[menu.main]]
+    name = "主页"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "项目"
+    url = "/works/"
+    weight = 2
+
+[[menu.main]]
+    name = "关于"
+    url = "/about/"
+    weight = 3
