@@ -17,5 +17,14 @@ SlideBack－Xposed是一个给Android应用加入拖拽手势关闭Activity页�
 
 ![Demo](http://7mnom1.com1.z0.glb.clouddn.com/slideback.gif)
 
+## Web
+
+### [WhilePage][2]
+
+之前博客在DO搭建Ghost博客的时候使用的主题。
+
+![Demo](http://7mnom1.com1.z0.glb.clouddn.com/whilepage-demo.png)
+
 [0]: http://github.com/kesco/SlideBack-Xposed
 [1]: http://github.com/kesco/SlideBack
+[2]: https://github.com/kesco/whilepage
