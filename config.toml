@@ -2,8 +2,7 @@ baseurl = "http://kescoode.com/"
 languageCode = "zh-CN"
 title = "Kesco的编码世界"
 theme = "ghostwriter"
-copyright = "Copyright (c) 2015. All rights reserved."
-disqusShortname = "kescoodecom"
+copyright = "Copyright (c) 2017. All rights reserved."
 googleAnalytics = "UA-75600240-1"
 canonifyurls = true
 
@@ -17,6 +16,9 @@ canonifyurls = true
 [Params]
     intro = true
     github = "https://github.com/kesco"
+    email = "kesco915@gmail.com"
+    opengraph = true
+    duoshuoShortname = "kescoode"
 
 [Permalinks]
     post = "/:filename/"
