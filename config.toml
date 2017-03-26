@@ -3,6 +3,7 @@ languageCode = "zh-CN"
 title = "Kesco的编码世界"
 theme = "ghostwriter"
 copyright = "Copyright (c) 2017. All rights reserved."
+disqusShortname = "kescoodecom"
 googleAnalytics = "UA-75600240-1"
 canonifyurls = true
 
@@ -18,7 +19,6 @@ canonifyurls = true
     github = "https://github.com/kesco"
     email = "kesco915@gmail.com"
     opengraph = true
-    duoshuoShortname = "kescoode"
 
 [Permalinks]
     post = "/:filename/"
